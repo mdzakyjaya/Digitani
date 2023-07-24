@@ -34,4 +34,13 @@ We separate our documentation into three, which is Android Mobile Development, M
 
 - Rahayu Dwi Nuraini - C151DSY2863
 
-- Resha Ramzy Arkansa - C038DSX1979 
+- Resha Ramzy Arkansa - C038DSX1979
+
+</br>
+</br>
+
+**Demo Video** - [Demo Apps](https://drive.google.com/uc?id=1YxrjZyrUc2pzgr9vYKnOh3Grh0oPznmG)
+
+**Video Presentation** - [Video](https://youtu.be/8iOQNw0YLZ4)
+
+
